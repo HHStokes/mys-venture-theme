@@ -1,0 +1,21 @@
+{
+  "name": "mys-venture-dark",
+  "displayName": "mys-venture",
+  "description": "Mys-Venture color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mys-Venture Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mys-Venture Theme-color-theme.json"
+      }
+    ]
+  }
+}
